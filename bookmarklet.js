@@ -24,6 +24,6 @@
         document.body.appendChild(link);
         link.dispatchEvent(new MouseEvent('click'));
     } else {
-        window.open(media, '_blank')
+        window.open(media, '_blank');
     }
-});
+})();
