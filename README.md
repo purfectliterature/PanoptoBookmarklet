@@ -4,7 +4,7 @@ NUS' web lecture (recording of physical lectures) are hosted on Panopto. This [b
 >This bookmarklet has been developed and tested on Google Chrome 75. It should also work with Safari. Dear Firefox users, due to Firefox's security reason, the video will not auto-download but it will be loaded onto the active tab. To continue downloading, right-click anywere and click on *Save video as* and type the video name. I will look onto this issue, but for now, either go the extra step or switch to Google Chrome (lol).
 ## How-to-use
 
-Click and drag this link: <a href="javascript:(function(){const  js=document.createElement('script');js.id='PanoptoBookmarklet';js.src='https://cdn.jsdelivr.net/gh/purfectliterature/PanoptoBookmarklet@master/bookmarklet.min.js';document.body.appendChild(js);})();">Download Webcast</a> to your browser's bookmarks bar to install. **OR** if you want to manually add the bookmarklet, follow the instructions below.
+Click and drag this link: [Download Webcast](javascript:%28function%28%29%7Bconst%20js%3Ddocument.createElement%28%27script%27%29%3Bjs.id%3D%27PanoptoBookmarklet%27%3Bjs.src%3D%27https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fpurfectliterature%2FPanoptoBookmarklet%40master%2Fbookmarklet.min.js%27%3Bdocument.body.appendChild%28js%29%3B%7D%29%28%29%3B) to your browser's bookmarks bar to install. **OR** if you want to manually add the bookmarklet, follow the instructions below.
 
 Simply create a new bookmarks bar in your browser, set the *name* to whatever you want (e.g. "Download Webcast"), and set the *URL* as follows:
 
